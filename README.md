@@ -1,3 +1,5 @@
+May move to [Bitbucket](https://bitbucket.org/naturevault/) or [Gitlab](https://gitlab.com/giverofmemory/) due to mandatory 2FA here.
+
 EQClassic source code from January 1st, 2010 - For EverQuest Trilogy (big box)
 
 **Online Documention:** http://erfg12.github.io/EQClassic/
